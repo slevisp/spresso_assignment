@@ -1,3 +1,11 @@
+# Todo list
+- table sortable
+- optimise - implement debounce function for onSearch callback function
+- bug - fix checked state messed up once page changed
+
+# Explan for the data set
+Currently data source only 5 items inside, the page size was set to 2, and page size can be modified in table.tsx.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
